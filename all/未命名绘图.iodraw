@@ -288,8 +288,8 @@
         <mxCell id="iw_3fG6GamFAqsu1VIId-160" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;（B*N，K2，128）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="284.5" y="1320" width="164.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iw_3fG6GamFAqsu1VIId-162" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;（B*N，K,128）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="295.75" y="1390" width="141.75" height="30" as="geometry" />
+        <mxCell id="iw_3fG6GamFAqsu1VIId-163" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;（B*N，K2，128）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="1390" width="164.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
