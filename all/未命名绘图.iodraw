@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iw_3fG6GamFAqsu1VIId-164" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="101.25" y="1190" width="572.5" height="240" as="geometry" />
+          <mxGeometry x="98.75" y="1190" width="572.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="iw_3fG6GamFAqsu1VIId-137" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="860" width="810" height="240" as="geometry" />
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="iw_3fG6GamFAqsu1VIId-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;基于边特征&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;的超体素&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;特征嵌入&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="325" y="980" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iw_3fG6GamFAqsu1VIId-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="iw_3fG6GamFAqsu1VIId-80" target="iw_3fG6GamFAqsu1VIId-164">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iw_3fG6GamFAqsu1VIId-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;自注意力&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;机制分类&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="325" y="1090" width="120" height="60" as="geometry" />
